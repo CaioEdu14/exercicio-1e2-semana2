@@ -33,4 +33,20 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+.fotobgs {
+    width: 33%;
+   
+}
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    
+}
+.evento{
+    width: 33%;
+}
+.linha{
+width: 100%;
+display: flex;
+}
 
